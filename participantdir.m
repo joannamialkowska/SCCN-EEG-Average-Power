@@ -1,4 +1,4 @@
-participantDir = '/Users/joannamialkowska/Documents/MATLAB/SCCN/mateusz/meanexample';
+participantDir = ''; %insert directory here
 
 %Input folder directory containing all participant folders
 myParticipantFiles = dir(participantDir);
